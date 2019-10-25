@@ -1,0 +1,39 @@
+@charset "utf-8";
+/*试卷默认*/
+.paper-font,
+.paper-name-font,
+.paper-qline-name-font {
+  font-family: "Times New Roman", "Microsoft YaHei" !important;
+}
+/*试卷名称*/
+.paper-name-font {
+  font-size: 30px;
+}
+/*试题行名称字体大小(包含分数)*/
+.paper-qline-name-font {
+  font-size: 22px;
+}
+/*题干或者材料*/
+.paper-question-content-font,
+.paper-group-content-font,
+.paper-question-choiseOption-font {
+  font-size: 20px;
+  line-height: 36px;
+}
+/*题干以及试题行名称*/
+.paper-question-content-font,
+.paper-question-choiseOption-font {
+  font-family: "Times New Roman", "SimSun" !important;
+}
+/*材料，以及试题labels内容*/
+.paper-group-content-font,
+.paper-question-labels-font,
+.paper-group-labels-font {
+  font-family: "Times New Roman", "KaiTi" !important;
+}
+/*试题labels内容*/
+.paper-question-labels-font,
+.paper-group-labels-font {
+  font-size: 20px;
+  line-height: 30px;
+}

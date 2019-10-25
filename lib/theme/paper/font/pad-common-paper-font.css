@@ -1,0 +1,29 @@
+@charset "utf-8";
+/*试卷名称*/
+.paper-name-font {
+  font-size: 0.4296875rem;
+}
+.paper-scoreOrTime-font {
+  font-size: 0.3125rem;
+}
+/*试题行名称字体大小(包含分数)*/
+.paper-qline-name-font {
+  font-size: 0.4296875rem;
+  line-height: 1.23046875rem;
+}
+.paper-group-content-font,
+.paper-question-content-font,
+.paper-question-choiseOption-font,
+.paper-group-labels-font,
+.paper-question-labels-font,
+.paper-more-content {
+  font-size: 0.390625rem;
+}
+.paper-group-content-font,
+.paper-question-content-font,
+.paper-question-choiseOption-font,
+.paper-question-labels-font,
+.paper-group-labels-font,
+.paper-more-content {
+  line-height: 0.703125rem;
+}
