@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.3.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lodash-es": "^4.17.15",
     "raphael": "^2.3.0",
     "vue": "^2.6.10",
